@@ -1,7 +1,7 @@
-# NodeBB SoundCLoud Plugin
+# NodeBB MixCloud Plugin
 
-This NodeBB plugin allows users to embed SoundCloud tracks inline in their posts.
+This NodeBB plugin allows users to embed MixCloud tracks inline in their posts.
 
 ## Installation
 
-    npm install nodebb-plugin-vimeo
+    npm install nodebb-plugin-mixcloud
